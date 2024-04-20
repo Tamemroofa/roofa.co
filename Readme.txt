@@ -1,4 +1,3 @@
-Thanks for downloading this template!
 
 Template Name: UpConstruction
 Template URL: https://bootstrapmade.com/upconstruction-bootstrap-construction-website-template/
