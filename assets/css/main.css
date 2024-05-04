@@ -596,7 +596,7 @@ section {
   margin-bottom: 20px;
 }
 
-.get-started .php-email-form .error-message {
+/**.get-started .php-email-form .error-message {
   display: none;
   color: #fff;
   background: #df1529;
@@ -604,7 +604,7 @@ section {
   padding: 15px;
   margin-bottom: 24px;
   font-weight: 600;
-}
+}**/
 
 .get-started .php-email-form .sent-message {
   display: none;
