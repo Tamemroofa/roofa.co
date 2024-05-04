@@ -596,15 +596,15 @@ section {
   margin-bottom: 20px;
 }
 
-/**.get-started .php-email-form .error-message {
+.get-started .php-email-form .error-message {
   display: none;
   color: #fff;
-  background: #df1529;
+  background: #059652;
   text-align: left;
   padding: 15px;
   margin-bottom: 24px;
   font-weight: 600;
-}**/
+}
 
 .get-started .php-email-form .sent-message {
   display: none;
@@ -624,7 +624,7 @@ section {
   margin-bottom: 24px;
 }
 
-/**.get-started .php-email-form .loading:before {
+.get-started .php-email-form .loading:before {
   content: "";
   display: inline-block;
   border-radius: 50%;
@@ -634,7 +634,7 @@ section {
   border: 3px solid #059652;
   border-top-color: #fff;
   animation: animate-loading 1s linear infinite;
-}**/
+}
 
 .get-started .php-email-form input,
 .get-started .php-email-form textarea {
