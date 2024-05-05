@@ -596,7 +596,7 @@ section {
   margin-bottom: 20px;
 }
 
-.get-started .php-email-form .done {
+.get-started .php-email-form .error-message {
   display: none;
   color: #fff;
   background: #059652;
